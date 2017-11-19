@@ -1,0 +1,2 @@
+# testbot
+Testing tournamentbot
